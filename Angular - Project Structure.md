@@ -8,6 +8,11 @@
 we know that angular consists of modules. Each module contains components.
 We use these modules to link (import) them together.
 
+**Extension For Angular**
+- Angular Files
+- Angular Language Service
+- Angular Snippets (version 18)
+
 **Angular Life Cycle**
 - Open main.ts file (Angular knows the entry file from `angular.json` where main indicates the entry file)
 - main.ts imports some modules and use `bootstrapModule` to start the first module (`AppModule`) which contain app.component

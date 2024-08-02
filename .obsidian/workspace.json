@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "994423f8f736c2ae",
+            "id": "02e9283742571598",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 2/Angular - Directives.md",
+                "file": "Day 2/Angular - Custom Directives.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e57967213f0f02f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 2/Angular - Pipes & Custom Pipes.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 2/Angular - Directives.md",
+                "file": "Day 2/Angular - Pipes & Custom Pipes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 2/Angular - Directives.md",
+                "file": "Day 2/Angular - Pipes & Custom Pipes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 2/Angular - Directives.md"
+                "file": "Day 2/Angular - Pipes & Custom Pipes.md"
               }
             }
           }
@@ -159,10 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "994423f8f736c2ae",
+  "active": "e57967213f0f02f2",
   "lastOpenFiles": [
     "Day 2/Angular - Data Binding.md",
+    "Day 2/Angular - Custom Directives.md",
+    "Day 2/Angular - Pipes & Custom Pipes.md",
     "Day 2/Angular - Directives.md",
+    "README.md",
     "Day 2/images",
     "Day 2/images/directives.png"
   ]

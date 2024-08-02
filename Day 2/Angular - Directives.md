@@ -32,3 +32,68 @@ ngIF removes the component from the dom while rendering. So, it means that you c
 
 
 
+> [!NOTE] No Structural Directives in the same line
+> We can't use more than one structural directives in the same line. In this case we do some work around like using `div` , `span` , `ng-container`
+
+```TS
+<tr *ngFor="let product of products">
+	<ng-container *ngIf="product.quantity!=0">
+		<th scope="row">{{product.id}}</th>
+		<td>{{product.name}}</td>
+		<td>{{product.price}}</td>
+		<td [class.text-danger]="!product.quantity">{{product.quantity}}</td>
+		<td><img [src]="product.imgUrl" [alt]="product.name"></td>
+		<td><input type="text" #itemCount></td>
+		<td><button (click)="buy(product.price, itemCount.value)">Buy</button></td>
+	</ng-container>
+</tr>
+```
+
+
+`ng-container` is the best solution cause it is removed from the DOM after rendering. Except `div` or `span` , they still exist in the DOM.
+
+
+**ngIf lese**
+
+```HTML
+<td>
+	<div *ngIf="product.quantity; else outOfStock">
+		{{product.quantity}}
+	</div>
+	<ng-template #outOfStock>Out Of Stock</ng-template>
+</td>
+```
+
+
+### ngSwitch
+
+```HTML
+<tr *ngFor="let product of products">
+	<!-- <ng-container *ngIf="product.quantity!=0"> -->
+	<th scope="row">{{product.id}}</th>
+	<td>{{product.name}}</td>
+	<td>{{product.price}}</td>
+	<td>
+		<div [ngSwitch]="product.quantity">
+			<div *ngSwitchCase="1">last item</div>
+			<div *ngSwitchCase="0">out of stock</div>
+			<div *ngSwitchCase="2">last two items</div>
+			<div *ngSwitchDefault>{{product.quantity}}</div>
+		</div>
+	</td>
+	<td><img [src]="product.imgUrl" [alt]="product.name"></td>
+	<td><input type="text" #itemCount></td>
+	<td><button (click)="buy(product.price, itemCount.value)">Buy</button></td>
+	<!-- </ng-container> -->
+</tr>
+```
+
+### ngClass
+
+used to add multiple classes with associated with conditions
+### ngStyle
+
+used to add multiple styles based on specific conditions
+
+
+

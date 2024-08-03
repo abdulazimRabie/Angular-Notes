@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5372152727cbe628",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 3/Component Life Cycle.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 2/Angular - Pipes & Custom Pipes.md",
+                "file": "Day 3/Component Life Cycle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 2/Angular - Pipes & Custom Pipes.md",
+                "file": "Day 3/Component Life Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 2/Angular - Pipes & Custom Pipes.md"
+                "file": "Day 3/Component Life Cycle.md"
               }
             }
           }
@@ -171,11 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e57967213f0f02f2",
+  "active": "5372152727cbe628",
   "lastOpenFiles": [
+    "Day 3/images/component-life-cycle.png",
+    "Day 3/images",
+    "Day 2/Angular - Pipes & Custom Pipes.md",
+    "Day 3/Component Life Cycle.md",
+    "Day 3",
     "Day 2/Angular - Data Binding.md",
     "Day 2/Angular - Custom Directives.md",
-    "Day 2/Angular - Pipes & Custom Pipes.md",
     "Day 2/Angular - Directives.md",
     "README.md",
     "Day 2/images",

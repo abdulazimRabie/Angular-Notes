@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 3/Component Life Cycle.md",
+                "file": "Day 2/Angular - Custom Directives.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "50e92e8e838eb2a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 3/Angular - @viewChild.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 3/Component Life Cycle.md",
+                "file": "Day 3/Angular - @viewChild.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 3/Component Life Cycle.md",
+                "file": "Day 3/Angular - @viewChild.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 3/Component Life Cycle.md"
+                "file": "Day 3/Angular - @viewChild.md"
               }
             }
           }
@@ -183,16 +195,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5372152727cbe628",
+  "active": "50e92e8e838eb2a1",
   "lastOpenFiles": [
+    "Day 3/Component Life Cycle.md",
+    "Day 3/Angular - @viewChild.md",
+    "Day 2/Angular - Custom Directives.md",
+    "Day 2/Angular - Data Binding.md",
+    "Day 2/Angular - Directives.md",
     "Day 3/images/component-life-cycle.png",
     "Day 3/images",
     "Day 2/Angular - Pipes & Custom Pipes.md",
-    "Day 3/Component Life Cycle.md",
     "Day 3",
-    "Day 2/Angular - Data Binding.md",
-    "Day 2/Angular - Custom Directives.md",
-    "Day 2/Angular - Directives.md",
     "README.md",
     "Day 2/images",
     "Day 2/images/directives.png"

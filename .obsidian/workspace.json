@@ -90,9 +90,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4587c87c2924018a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 4/ActivatedRoute Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -142,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "87ed5ba6f420ac8c",
@@ -158,7 +171,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 4/Routing - Basics - Child Routes - Router Services.md",
+                "file": "Day 4/ActivatedRoute Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +188,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 4/Routing - Basics - Child Routes - Router Services.md",
+                "file": "Day 4/ActivatedRoute Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +211,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 4/Routing - Basics - Child Routes - Router Services.md"
+                "file": "Day 4/ActivatedRoute Services.md"
               }
             }
           }
@@ -219,12 +232,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ff6786d5e2cb2ba3",
+  "active": "4587c87c2924018a",
   "lastOpenFiles": [
+    "Day 4/Routing - Basics - Child Routes - Router Services.md",
+    "Day 4/ActivatedRoute Services.md",
     "Day 4/Services - Dependency Injection.md",
     "Day 2/Angular - Directives.md",
     "Day 2/Angular - Custom Directives.md",
-    "Day 4/Routing - Basics - Child Routes - Router Services.md",
     "Day 4/images/angular-router-tree-2.svg",
     "Day 4/images",
     "Day 3/Angular - @viewChild.md",

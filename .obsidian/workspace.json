@@ -97,14 +97,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 4/ActivatedRoute Services.md",
+                "file": "Day 4/Services - Dependency Injection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4afc438513c9a029",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 3/Angular - @viewChild.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b17d2d60ffeacabe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 5/Observables Operators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4f7e3a3a076a19f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 5/Observables - Subjects.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -154,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "87ed5ba6f420ac8c",
@@ -171,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 4/ActivatedRoute Services.md",
+                "file": "Day 5/Observables - Subjects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 4/ActivatedRoute Services.md",
+                "file": "Day 5/Observables - Subjects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 4/ActivatedRoute Services.md"
+                "file": "Day 5/Observables - Subjects.md"
               }
             }
           }
@@ -232,24 +267,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4587c87c2924018a",
+  "active": "591ff76280fc45c1",
   "lastOpenFiles": [
-    "Day 4/Routing - Basics - Child Routes - Router Services.md",
+    "Day 5/Observables Operators.md",
+    "Day 5/Observables - Subjects.md",
+    "Day 3/Angular - @viewChild.md",
+    "Day 3/Component Life Cycle.md",
     "Day 4/ActivatedRoute Services.md",
+    "Day 4/Routing - Basics - Child Routes - Router Services.md",
     "Day 4/Services - Dependency Injection.md",
+    "Day 5/Observables - RxJS - Creating Observables.md",
+    "README.md",
+    "Day 5/images",
+    "Day 5",
     "Day 2/Angular - Directives.md",
     "Day 2/Angular - Custom Directives.md",
     "Day 4/images/angular-router-tree-2.svg",
     "Day 4/images",
-    "Day 3/Angular - @viewChild.md",
     "Day 4",
-    "Day 3/Component Life Cycle.md",
     "Day 2/Angular - Data Binding.md",
     "Day 3/images/component-life-cycle.png",
     "Day 3/images",
     "Day 2/Angular - Pipes & Custom Pipes.md",
     "Day 3",
-    "README.md",
     "Day 2/images",
     "Day 2/images/directives.png"
   ]

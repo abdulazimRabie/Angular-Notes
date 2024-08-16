@@ -133,14 +133,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day 5/Observables - Subjects.md",
+                "file": "Day 4/Routing - Basics - Child Routes - Router Services.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42967765eb29c8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day 5/Guards.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -206,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day 5/Observables - Subjects.md",
+                "file": "Day 5/Guards.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day 5/Observables - Subjects.md",
+                "file": "Day 5/Guards.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -246,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day 5/Observables - Subjects.md"
+                "file": "Day 5/Guards.md"
               }
             }
           }
@@ -267,16 +279,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "591ff76280fc45c1",
+  "active": "42967765eb29c8a7",
   "lastOpenFiles": [
-    "Day 5/Observables Operators.md",
+    "Day 4/DALL·E 2024-08-15 02.42.29 - A minimalist and elegant favicon design for a website called 'Diwan', which is an Arabic word meaning a place for journalists, writers, and readers. T.webp",
+    "Day 5/Guards.md",
+    "Day 4/Routing - Basics - Child Routes - Router Services.md",
+    "Day 5/Observables - RxJS - Creating Observables.md",
     "Day 5/Observables - Subjects.md",
+    "Day 5/Observables Operators.md",
     "Day 3/Angular - @viewChild.md",
     "Day 3/Component Life Cycle.md",
     "Day 4/ActivatedRoute Services.md",
-    "Day 4/Routing - Basics - Child Routes - Router Services.md",
     "Day 4/Services - Dependency Injection.md",
-    "Day 5/Observables - RxJS - Creating Observables.md",
     "README.md",
     "Day 5/images",
     "Day 5",
